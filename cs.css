@@ -73,3 +73,10 @@ h1{
     grid-row-start:1 ;
     grid-row-end: 2;
 }
+@media screen and (max-width:600px){
+    #para{
+        position: relative;
+        left: 20%;
+        font-size: 1.1rem;
+    }
+}
