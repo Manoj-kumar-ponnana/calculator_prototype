@@ -36,7 +36,7 @@ button{
     text-transform: uppercase;
     color: rgb(0, 0, 0);
 }
-#btn1 :hover{
+button:hover{
     background-color: cadetblue;
 }
 h1{
